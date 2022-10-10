@@ -1,0 +1,8 @@
+.*/
+*.pyc
+*.so
+results/
+*.out
+*.pickle
+*.log
+results*/
